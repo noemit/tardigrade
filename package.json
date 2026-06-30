@@ -1,0 +1,27 @@
+{
+  "name": "tardigrade",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Synthetic user-testing / product auditor framework",
+  "license": "MIT",
+  "main": "packages/frontend/dist-electron/main.js",
+  "scripts": {
+    "dev": "npm run dev --workspace=packages/frontend",
+    "build": "npm run build --workspace=packages/frontend",
+    "lint": "eslint . --ext .ts,.tsx",
+    "typecheck": "npm run typecheck --workspace=packages/backend && npm run typecheck --workspace=packages/frontend"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "@typescript-eslint/eslint-plugin": "^7.13.0",
+    "@typescript-eslint/parser": "^7.13.0",
+    "eslint": "^8.57.0",
+    "typescript": "^5.4.5"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

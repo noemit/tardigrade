@@ -1,0 +1,25 @@
+{
+  "id": "conversion-starter",
+  "name": "Conversion Starter",
+  "description": "Growth and conversion-oriented checks.",
+  "rubrics": [
+    {
+      "id": "conv-trust-signals",
+      "name": "Trust signals present near high-intent actions",
+      "category": "conversion",
+      "weight": 0.8,
+      "criteria": "Near forms, pricing, or purchase actions there are trust signals such as security badges, testimonials, guarantees, or privacy notes.",
+      "requiredEvidence": ["screenshot"],
+      "scoringType": "pass/fail"
+    },
+    {
+      "id": "conv-form-friction",
+      "name": "Key forms minimize friction",
+      "category": "conversion",
+      "weight": 0.9,
+      "criteria": "Sign-up or lead-capture forms ask for the minimum information needed and provide clear inline validation/error messaging.",
+      "requiredEvidence": ["screenshot", "dom"],
+      "scoringType": "1-5"
+    }
+  ]
+}

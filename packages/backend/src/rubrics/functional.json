@@ -1,0 +1,25 @@
+{
+  "id": "functional-starter",
+  "name": "Functional Starter",
+  "description": "Basic functional correctness checks.",
+  "rubrics": [
+    {
+      "id": "func-no-console-errors",
+      "name": "No critical console errors on load",
+      "category": "functional",
+      "weight": 1.0,
+      "criteria": "The browser console contains no uncaught exceptions or network errors that block page functionality on initial load.",
+      "requiredEvidence": ["console", "network"],
+      "scoringType": "pass/fail"
+    },
+    {
+      "id": "func-links-work",
+      "name": "Primary navigation links resolve",
+      "category": "functional",
+      "weight": 0.8,
+      "criteria": "The main navigation links lead to reachable pages without 4xx/5xx errors.",
+      "requiredEvidence": ["network", "screenshot"],
+      "scoringType": "pass/fail"
+    }
+  ]
+}

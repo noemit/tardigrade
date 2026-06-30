@@ -1,0 +1,25 @@
+{
+  "id": "ux-starter",
+  "name": "UX Starter",
+  "description": "Common usability and user experience checks.",
+  "rubrics": [
+    {
+      "id": "ux-clear-headline",
+      "name": "Clear headline or value proposition",
+      "category": "ux",
+      "weight": 1.0,
+      "criteria": "Within 5 seconds of landing, a new visitor can understand what this page or product does from a prominent headline or hero text.",
+      "requiredEvidence": ["screenshot"],
+      "scoringType": "pass/fail"
+    },
+    {
+      "id": "ux-visible-cta",
+      "name": "Primary call-to-action is visible above the fold",
+      "category": "ux",
+      "weight": 1.0,
+      "criteria": "The primary next step a user should take is visible without scrolling on a 1280x800 viewport.",
+      "requiredEvidence": ["screenshot"],
+      "scoringType": "pass/fail"
+    }
+  ]
+}
