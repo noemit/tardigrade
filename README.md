@@ -5,14 +5,32 @@
 <h1 align="center">Tardigrade</h1>
 
 <p align="center">
-  A synthetic user-testing / product auditor that drives a real browser, explores your web app like a user, and scores it against rubrics — with screenshots and evidence for every finding.
+  A synthetic user-testing / product auditor that drives a real browser, explores your web app like a user, and scores it against rubrics. A screenshot and evidence back every finding.
 </p>
 
 <p align="center">
-  <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg" />
-  <img alt="Node 20+" src="https://img.shields.io/badge/Node-20%2B-339933.svg?logo=node.js&logoColor=white" />
-  <img alt="Built with Playwright" src="https://img.shields.io/badge/Playwright-2EAD33.svg?logo=playwright&logoColor=white" />
-  <img alt="OpenAI-compatible" src="https://img.shields.io/badge/LLM-OpenAI--compatible-412991.svg" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/noemit/tardigrade.svg?variant=secondary&size=xs&mode=dark&theme=slate&font=fira-code"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/stars/noemit/tardigrade.svg?variant=secondary&size=xs&mode=light&theme=slate&font=fira-code"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/forks/noemit/tardigrade.svg?variant=secondary&size=xs&mode=dark&theme=slate&font=fira-code"><img alt="GitHub Forks" src="https://www.shieldcn.dev/github/forks/noemit/tardigrade.svg?variant=secondary&size=xs&mode=light&theme=slate&font=fira-code"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/watchers/noemit/tardigrade.svg?variant=secondary&size=xs&mode=dark&theme=slate&font=fira-code"><img alt="Watchers" src="https://www.shieldcn.dev/github/watchers/noemit/tardigrade.svg?variant=secondary&size=xs&mode=light&theme=slate&font=fira-code"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/branches/noemit/tardigrade.svg?variant=ghost&size=xs&mode=dark&theme=slate&font=fira-code"><img alt="Branches" src="https://www.shieldcn.dev/github/branches/noemit/tardigrade.svg?variant=ghost&size=xs&mode=light&theme=slate&font=fira-code"></picture>
+  <img alt="Contributors" src="https://www.shieldcn.dev/github/contributors/noemit/tardigrade.svg?theme=emerald&variant=destructive&size=xs&mode=light&font=fira-code">
+</p>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/last-commit/noemit/tardigrade.svg?variant=secondary&size=xs&mode=dark&theme=slate&font=fira-code"><img alt="Last commit" src="https://www.shieldcn.dev/github/last-commit/noemit/tardigrade.svg?variant=secondary&size=xs&mode=light&theme=slate&font=fira-code"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/commits/noemit/tardigrade.svg?variant=secondary&size=xs&mode=dark&theme=slate&font=fira-code"><img alt="Commits" src="https://www.shieldcn.dev/github/commits/noemit/tardigrade.svg?variant=secondary&size=xs&mode=light&theme=slate&font=fira-code"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/open-issues/noemit/tardigrade.svg?variant=secondary&size=xs&mode=dark&theme=slate&font=fira-code"><img alt="Open issues" src="https://www.shieldcn.dev/github/open-issues/noemit/tardigrade.svg?variant=secondary&size=xs&mode=light&theme=slate&font=fira-code"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/closed-issues/noemit/tardigrade.svg?variant=ghost&size=xs&mode=dark&theme=slate&font=fira-code"><img alt="Closed issues" src="https://www.shieldcn.dev/github/closed-issues/noemit/tardigrade.svg?variant=ghost&size=xs&mode=light&theme=slate&font=fira-code"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/open-prs/noemit/tardigrade.svg?variant=secondary&size=xs&mode=dark&theme=slate&font=fira-code"><img alt="Open PRs" src="https://www.shieldcn.dev/github/open-prs/noemit/tardigrade.svg?variant=secondary&size=xs&mode=light&theme=slate&font=fira-code"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/closed-prs/noemit/tardigrade.svg?variant=ghost&size=xs&mode=dark&theme=slate&font=fira-code"><img alt="Closed PRs" src="https://www.shieldcn.dev/github/closed-prs/noemit/tardigrade.svg?variant=ghost&size=xs&mode=light&theme=slate&font=fira-code"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/merged-prs/noemit/tardigrade.svg?variant=ghost&size=xs&mode=dark&theme=slate&font=fira-code"><img alt="Merged PRs" src="https://www.shieldcn.dev/github/merged-prs/noemit/tardigrade.svg?variant=ghost&size=xs&mode=light&theme=slate&font=fira-code"></picture>
+</p>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/license/noemit/tardigrade.svg?variant=ghost&size=xs&mode=dark&theme=slate&font=fira-code"><img alt="License" src="https://www.shieldcn.dev/github/license/noemit/tardigrade.svg?variant=ghost&size=xs&mode=light&theme=slate&font=fira-code"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Language-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=xs&mode=dark&theme=slate&font=fira-code"><img alt="Language · TypeScript" src="https://www.shieldcn.dev/badge/Language-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=xs&mode=light&theme=slate&font=fira-code"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Package_mgr-npm-CB3837.svg?logo=npm&variant=branded&size=xs&mode=dark&theme=slate&font=fira-code"><img alt="Package mgr · npm" src="https://www.shieldcn.dev/badge/Package_mgr-npm-CB3837.svg?logo=npm&variant=branded&size=xs&mode=light&theme=slate&font=fira-code"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Monorepo-yes-2563eb.svg?variant=secondary&size=xs&mode=dark&theme=slate&font=fira-code"><img alt="Monorepo yes" src="https://www.shieldcn.dev/badge/Monorepo-yes-2563eb.svg?variant=secondary&size=xs&mode=light&theme=slate&font=fira-code"></picture>
 </p>
 
 Tardigrade uses a fast multimodal LLM to drive a real browser, explore web apps, and score them against built-in and custom rubrics. Point it at any OpenAI-compatible endpoint (OpenAI, Gemini, DeepSeek, Kimi, Cerebras, or a local server).
