@@ -206,6 +206,11 @@ tardigrade/
 ├── TROUBLESHOOTING.md
 ```
 
+## Contributing
+
+Contributions are welcome — see [CONTRIBUTING.md](./CONTRIBUTING.md) for setup,
+dev, and the checks CI runs.
+
 ## License
 
 [MIT](./LICENSE) © noemit
