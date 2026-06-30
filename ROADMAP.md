@@ -55,6 +55,7 @@ Goal: a working end-to-end audit against a single URL with built-in rubrics.
 - Multi-browser runs (Firefox, WebKit)
 - Baseline comparisons between runs
 - Scheduled / cron runs
+- Consolidated end-of-run report (scores by category, severity breakdown, top findings with linked evidence)
 - PDF / markdown export
 - Accessibility integration (axe-core)
 - Optional Docker packaging for CI/headless use

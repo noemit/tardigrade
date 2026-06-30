@@ -103,6 +103,10 @@ This is an early MVP. Implemented so far:
 - ✅ Mock LLM mode for offline testing
 - ✅ Example CLI script
 
+### Next up
+
+- 📋 **A polished end-of-run report.** Today you get finding cards and a session replay, but no single summary. The plan is one shareable report per run: overall scores by rubric category, a severity breakdown, the top findings with linked evidence, and export to Markdown or PDF.
+
 See:
 
 - [ARCHITECTURE.md](./ARCHITECTURE.md) — design decisions and intentions
