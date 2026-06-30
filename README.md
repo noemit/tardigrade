@@ -35,13 +35,15 @@
 
 Tardigrade uses a fast multimodal LLM to drive a real browser, explore web apps, and score them against built-in and custom rubrics. Point it at any OpenAI-compatible endpoint (OpenAI, Gemini, DeepSeek, Kimi, Cerebras, or a local server).
 
+> Built during a hackathon hosted by [Cerebras](https://www.cerebras.ai) and the Google DeepMind [Gemma](https://ai.google.dev/gemma) team. Thanks to both for the compute and the models.
+
 ## Screenshots
 
 <p align="center">
   <img src="docs/images/live-audit.png" alt="Tardigrade auditing a live site, with the agent's reasoning streamed under the page" width="800" />
 </p>
 
-<p align="center"><em>A live audit in progress — the agent explores the page and narrates its reasoning step by step.</em></p>
+<p align="center"><em>A live audit in progress. The agent explores the page and narrates its reasoning step by step.</em></p>
 
 <table>
   <tr>
