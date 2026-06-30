@@ -1,7 +1,8 @@
 # Contributing to Tardigrade
 
 Thanks for your interest! Tardigrade is an early MVP, so issues, ideas, and pull
-requests are all welcome.
+requests are all welcome. AI use is permitted, but only humans may create PRs or
+open issues, even if aided by an AI.
 
 ## Prerequisites
 
