@@ -5,7 +5,7 @@
 <h1 align="center">Tardigrade</h1>
 
 <p align="center">
-  A synthetic user-testing / product auditor that drives a real browser, explores your web app like a user, and scores it against rubrics. A screenshot and evidence back every finding.
+  A synthetic user-testing / product auditor that drives a real browser, explores your web app like a user, and scores it against rubrics. Every take the agent has ties back to a screenshot, so you can see what UX is causing what reaction.
 </p>
 
 <p align="center">
